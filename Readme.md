@@ -7,7 +7,7 @@ QuickQuill is a full-featured blogging platform built with the MERN stack (Mongo
 ## Features
 
 - **User Authentication**: Secure account system with support for Google OAuth and traditional email/password login.
-- **Profile Management**: Users can set up a personal bio, connect social links, and choose profile images from curated collections.
+- **Profile Management**: Users can set up a personal bio, connect social links, and set a profile image.
 - **Blog Creation & Management**: Easily compose, edit, and publish blog posts with rich-text editing tools and media uploads (integrated AWS S3 support).
 - **Content Interaction**: Blog cards display stats such as views and other metrics; readers can browse posts and author profiles.
 - **Responsive UI**: Built using React and Vite for fast rendering and smooth navigation.
